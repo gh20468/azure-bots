@@ -3,7 +3,7 @@
   "services": [
     {
       "type": "endpoint",
-      "name": "development",
+      "name": "production",
       "endpoint": "http://localhost:3978/api/messages",
       "appId": "",
       "appPassword": "",
